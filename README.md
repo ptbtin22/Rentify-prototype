@@ -20,3 +20,10 @@ Rentify is a smart rental management platform prototype built using the Apple iO
 
 ## Production Deployment
 The prototype is deployed live on Vercel: [https://rentify-prototype.vercel.app](https://rentify-prototype.vercel.app)
+
+## Screenshots
+
+| View / Functionality | Landlord Screen (Chủ nhà) | Tenant Screen (Người thuê) |
+| :--- | :---: | :---: |
+| **Login Screen** | <img src="./screenshots/login.png" width="280" /> | — |
+| **Home Dashboard** | <img src="./screenshots/landlord_home.png" width="280" /> | <img src="./screenshots/tenant_home.png" width="280" /> |
