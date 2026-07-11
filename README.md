@@ -23,7 +23,10 @@ The prototype is deployed live on Vercel: [https://rentify-prototype.vercel.app]
 
 ## Screenshots
 
-| View / Functionality | Landlord Screen (Chủ nhà) | Tenant Screen (Người thuê) |
+| Functionality / View | Landlord Screen (Chủ nhà) | Tenant Screen (Người thuê) |
 | :--- | :---: | :---: |
-| **Login Screen** | <img src="./screenshots/login.png" width="280" /> | — |
+| **Login screen** | <img src="./screenshots/login_landlord.png" width="280" /> | <img src="./screenshots/login_tenant.png" width="280" /> |
 | **Home Dashboard** | <img src="./screenshots/landlord_home.png" width="280" /> | <img src="./screenshots/tenant_home.png" width="280" /> |
+| **Room Creation / Checkout** | <img src="./screenshots/modal_add_room.png" width="280" /> <br> *(Add New Room)* | <img src="./screenshots/modal_payment.png" width="280" /> <br> *(Payment Checkout)* |
+| **Billing & Calculators** | <img src="./screenshots/modal_create_bill.png" width="280" /> <br> *(Utility Calculator)* | — |
+| **Batch Reminders** | <img src="./screenshots/modal_send_reminders.png" width="280" /> <br> *(Checkbox Multi-select)* | — |
