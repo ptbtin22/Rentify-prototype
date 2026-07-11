@@ -25,8 +25,8 @@ The prototype is deployed live on Vercel: [https://rentify-prototype.vercel.app]
 
 | Functionality / View | Landlord Screen (Chủ nhà) | Tenant Screen (Người thuê) |
 | :--- | :---: | :---: |
-| **Login screen** | <img src="./screenshots/login_landlord.png" width="280" /> | <img src="./screenshots/login_tenant.png" width="280" /> |
-| **Home Dashboard** | <img src="./screenshots/landlord_home.png" width="280" /> | <img src="./screenshots/tenant_home.png" width="280" /> |
-| **Room Creation / Checkout** | <img src="./screenshots/modal_add_room.png" width="280" /> <br> *(Add New Room)* | <img src="./screenshots/modal_payment.png" width="280" /> <br> *(Payment Checkout)* |
-| **Billing & Calculators** | <img src="./screenshots/modal_create_bill.png" width="280" /> <br> *(Utility Calculator)* | — |
-| **Batch Reminders** | <img src="./screenshots/modal_send_reminders.png" width="280" /> <br> *(Checkbox Multi-select)* | — |
+| **Login screen** | ![Login Landlord](screenshots/login_landlord.png) | ![Login Tenant](screenshots/login_tenant.png) |
+| **Home Dashboard** | ![Landlord Home](screenshots/landlord_home.png) | ![Tenant Home](screenshots/tenant_home.png) |
+| **Room Creation / Checkout** | ![Add Room](screenshots/modal_add_room.png) <br> *(Add New Room)* | ![Payment Modal](screenshots/modal_payment.png) <br> *(Payment Checkout)* |
+| **Billing & Calculators** | ![Create Bill](screenshots/modal_create_bill.png) <br> *(Utility Calculator)* | — |
+| **Batch Reminders** | ![Send Reminders](screenshots/modal_send_reminders.png) <br> *(Checkbox Multi-select)* | — |
